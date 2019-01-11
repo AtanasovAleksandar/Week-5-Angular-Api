@@ -1,0 +1,14 @@
+{
+  "name": "week5-server",
+  "version": "1.0.0",
+  "description": "Server for week5",
+  "main": "index.js",
+  "scripts": {
+    "json:server": "json-server --watch db.json"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^0.14.2"
+  }
+}
